@@ -1,5 +1,4 @@
-# To check if year that user inputted is a leap year or not
-
+# To check if the year that the user inputted is a leap year or not
 # Which year do you want to check?
 year = int(input())
 
