@@ -1,2 +1,2 @@
 # python-project
-This is where I put all Python I did during my learning and maybe, in future, got some fun-coding to do
+This is where I put all the Python I did during my learning and maybe, in the future, get some fun coding to do.
